@@ -7,7 +7,11 @@ import { Component, OnInit } from '@angular/core';
 })
 export class CalculaderComponent implements OnInit {
 
-  constructor() { }
+   firstNumber: number ;
+   secondNumber: number;
+    outputNumber: number;
+    operator = "+";
+ constructor() { }
 
   ngOnInit(): void {
   }

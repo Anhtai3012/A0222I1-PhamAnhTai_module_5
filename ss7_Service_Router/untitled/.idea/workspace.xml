@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7d08e9f-b711-43ad-bd8c-3549244427e7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../ss3_angular/exercise/angular-calculator-master/src/app/calculator/calculator.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss3_angular/exercise/angular-calculator-master/src/app/calculator/calculator.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss3_angular/exercise/e1/calculater-e1/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss3_angular/exercise/e1/calculater-e1/src/app/app.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss3_angular/exercise/e1/calculater-e1/src/app/component/calculator/calculader.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss3_angular/exercise/e1/calculater-e1/src/app/component/calculator/calculader.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss3_angular/exercise/e1/calculater-e1/src/app/component/calculator/calculader.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss3_angular/exercise/e1/calculater-e1/src/app/component/calculator/calculader.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6_Angular_Form/exercise/SuperHeroNG" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss6_Angular_Form/exercise/SuperHeroNG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ss6_Angular_Form/exercise/login" beforeDir="false" afterPath="$PROJECT_DIR$/../../ss6_Angular_Form/exercise/login" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2ItkLcwqnYS1zbQj61JX7sfqbRv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7d08e9f-b711-43ad-bd8c-3549244427e7" name="Default Changelist" comment="" />
+      <created>1671008211729</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671008211729</updated>
+      <workItem from="1671008212917" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="548" y="154" key="FileChooserDialogImpl" timestamp="1671008230070">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="548" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1671008230070" />
+  </component>
+</project>
